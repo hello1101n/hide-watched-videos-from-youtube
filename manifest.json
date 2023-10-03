@@ -1,0 +1,15 @@
+{
+  "name": "Hide watched videos from playlist (youtube)",
+  "version": "1.0.0",
+  "description": "Hide videos",
+  "manifest_version": 3,
+  "author": "Nikita Derevskov",
+  "action":{
+    "default_popup": "index.html",
+    "default_title": "Hide watched videos from playlist (youtube)"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ]
+}
